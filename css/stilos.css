@@ -33,3 +33,13 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#footer{
+    background-color: #106b98;
+    display: flex;
+    justify-content: center;
+}
+
+#pFooter{
+    color: white;
+}
